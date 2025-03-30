@@ -1,0 +1,61 @@
+"HIS.Species","infection_type","MDRO","Total_Cases"
+"Avian","ESKAPEE Pathogen","TRUE",1
+"Avian","no growth","N/A",22
+"Avian",NA,"FALSE",4
+"Avian",NA,"TRUE",9
+"Bovine","ESKAPEE Pathogen","FALSE",3
+"Bovine","ESKAPEE Pathogen","TRUE",10
+"Bovine","no growth","FALSE",3
+"Bovine","no growth","N/A",684
+"Bovine","no growth","TRUE",1
+"Bovine",NA,"FALSE",70
+"Bovine",NA,"TRUE",132
+"Canine","ESKAPEE Pathogen","FALSE",73
+"Canine","ESKAPEE Pathogen","TRUE",274
+"Canine","no growth","FALSE",70
+"Canine","no growth","N/A",14305
+"Canine","no growth","TRUE",51
+"Canine",NA,"FALSE",1978
+"Canine",NA,"TRUE",1497
+"Caprine","ESKAPEE Pathogen","FALSE",8
+"Caprine","ESKAPEE Pathogen","TRUE",8
+"Caprine","no growth","FALSE",3
+"Caprine","no growth","N/A",250
+"Caprine","no growth","TRUE",1
+"Caprine",NA,"FALSE",38
+"Caprine",NA,"TRUE",21
+"Equine","ESKAPEE Pathogen","FALSE",30
+"Equine","ESKAPEE Pathogen","TRUE",83
+"Equine","no growth","FALSE",25
+"Equine","no growth","N/A",3134
+"Equine","no growth","TRUE",9
+"Equine",NA,"FALSE",427
+"Equine",NA,"TRUE",337
+"Feline","ESKAPEE Pathogen","FALSE",19
+"Feline","ESKAPEE Pathogen","TRUE",60
+"Feline","no growth","FALSE",39
+"Feline","no growth","N/A",3383
+"Feline","no growth","TRUE",15
+"Feline",NA,"FALSE",291
+"Feline",NA,"TRUE",174
+"Other Large","ESKAPEE Pathogen","TRUE",4
+"Other Large","no growth","FALSE",3
+"Other Large","no growth","N/A",115
+"Other Large",NA,"FALSE",19
+"Other Large",NA,"TRUE",14
+"Other Small","ESKAPEE Pathogen","TRUE",2
+"Other Small","no growth","N/A",28
+"Other Small",NA,"FALSE",10
+"Other Small",NA,"TRUE",4
+"Ovine","ESKAPEE Pathogen","TRUE",3
+"Ovine","no growth","FALSE",1
+"Ovine","no growth","N/A",37
+"Ovine","no growth","TRUE",1
+"Ovine",NA,"FALSE",9
+"Ovine",NA,"TRUE",11
+"Porcine","ESKAPEE Pathogen","FALSE",5
+"Porcine","ESKAPEE Pathogen","TRUE",15
+"Porcine","no growth","N/A",161
+"Porcine","no growth","TRUE",1
+"Porcine",NA,"FALSE",34
+"Porcine",NA,"TRUE",44

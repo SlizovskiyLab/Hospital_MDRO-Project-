@@ -1,0 +1,838 @@
+HIS.Species,Organism,Count
+Avian,Avibacterium endocarditidis,1
+Avian,Bacillus cereus,1
+Avian,Bacillus sp.,1
+Avian,Citrobacter koseri,2
+Avian,Corynebacterium sp.,6
+Avian,Culture Negative,127
+Avian,Enterobacter cloacae,1
+Avian,Enterococcus casseliflavus,1
+Avian,Enterococcus faecalis,6
+Avian,Enterococcus sp.,1
+Avian,Escherichia coli,14
+Avian,Gallibacterium anatis,1
+Avian,Gallibacterium anatis (Pasteurella),1
+Avian,Grampositive coccus,1
+Avian,Klebsiella oxytoca,5
+Avian,Klebsiella pneumoniae,1
+Avian,Lactobacillus salivarius,1
+Avian,Micrococcus sp.,1
+Avian,Proteus mirabilis,4
+Avian,Providencia stuartii,1
+Avian,Pseudomonas aeruginosa,1
+Avian,Pseudomonas stutzeri,1
+Avian,Rothia nasimurium,2
+Avian,Staphylococcus aur. ss aureus,1
+Avian,Staphylococcus aureus,2
+Avian,Staphylococcus chromogenes,1
+Avian,Staphylococcus coagulase Culture Negative Group,4
+Avian,Staphylococcus coagulase-Culture Negative,2
+Avian,Staphylococcus intermedius,2
+Avian,Staphylococcus pseudintermedius,1
+Avian,Streptococcus alpha hemolytic,6
+Avian,Trueperella pyogenes,1
+Bovine,Acinetobacterer lwoffi,1
+Bovine,Acinetobacterer sp.,1
+Bovine,Actinobacillus lignieresii,1
+Bovine,Actinomyces hyovaginalis,1
+Bovine,Aerococcus viridans,1
+Bovine,Bacillus pumilus,1
+Bovine,Bacillus sp.,6
+Bovine,Bacillus thuringiensis,2
+Bovine,Bibersteinia trehalosi,7
+Bovine,Branhamella ovis,1
+Bovine,Corynebacterium renale,1
+Bovine,Corynebacterium sp.,9
+Bovine,Culture Negative,1163
+Bovine,Curtobacterium sp.,1
+Bovine,Enterobacter cloacae,4
+Bovine,Enterobacter hormaechei,6
+Bovine,Enterococcus faecalis,3
+Bovine,Enterococcus faecium,3
+Bovine,Enterococcus hirae,1
+Bovine,Enterococcus sp.,3
+Bovine,Escherichia coli,85
+Bovine,Escherichia coli haemolytic,1
+Bovine,Escherichia coli- lactose neg.,1
+Bovine,Gramnegative rod,2
+Bovine,Grampositive coccus,1
+Bovine,Histophilus somni,7
+Bovine,Histophilus somni (Haemophilus somnus),1
+Bovine,Klebsiella oxytoca,3
+Bovine,Klebsiella pneumoniae,7
+Bovine,Leclercia adecarboxylata,1
+Bovine,Listeria monocytogenes,1
+Bovine,Mannheimia haemolytica,15
+Bovine,Mannheimia varigena,1
+Bovine,Moraxella bovis,2
+Bovine,Moraxella bovoculi,5
+Bovine,Moraxella sp.,2
+Bovine,Morganella morgani ss morganii,3
+Bovine,Morganella morganii (Proteus),1
+Bovine,Pantoea agglomerans,1
+Bovine,Pasteurella multocida,16
+Bovine,Proteus hauseri,1
+Bovine,Proteus mirabilis,3
+Bovine,Proteus vulgaris,9
+Bovine,Providencia rettgeri (Proteus),1
+Bovine,Pseudomonas aeruginosa,9
+Bovine,Pseudomonas koreensis,1
+Bovine,Pseudomonas otitidis,1
+Bovine,Pseudomonas sp.,1
+Bovine,Pseudomonas stutzeri,1
+Bovine,Rhizobium radiobacter,1
+Bovine,Rothia nasimurium,1
+Bovine,Salmonella group - C1,1
+Bovine,Salmonella sp.,7
+Bovine,Salmonella sp. Group 18,2
+Bovine,Salmonella sp. Group B,3
+Bovine,Salmonella sp. Group C1,1
+Bovine,Salmonella sp. Group D,1
+Bovine,Salmonella sp. Group E1,7
+Bovine,Salmonella sp. Group E4,1
+Bovine,Salmonella sp.(Poly A),1
+Bovine,Serratia marcescens,1
+Bovine,Staphylococcus aur. ss aureus,4
+Bovine,Staphylococcus aureus,1
+Bovine,Staphylococcus chromogenes,1
+Bovine,Staphylococcus coagulase Culture Negative Group,12
+Bovine,Staphylococcus epidermidis,1
+Bovine,Staphylococcus hyicus,1
+Bovine,Streptococcus alpha hemolytic,20
+Bovine,Streptococcus beta group - C,1
+Bovine,Streptococcus dys. ss dysgalactiae,1
+Bovine,Streptococcus dysgalactiae,2
+Bovine,Streptococcus sp. alpha hemolytic,1
+Bovine,Streptococcus uberis,5
+Bovine,Trueperella pyogenes,39
+Bovine,Trueperella pyogenes (Actinomyces/Corynebacterium),19
+Canine,Achromobacter xylo ss denitrificans,1
+Canine,Achromobacter xylo ss xylosoxidans,1
+Canine,Acinetobacter baumannii complex,2
+Canine,Acinetobacterer baumannii,2
+Canine,Acinetobacterer lwoffi,1
+Canine,Acinetobacterer sp.,11
+Canine,Actinomyces bowdenii,3
+Canine,Actinomyces canis,18
+Canine,Actinomyces sp.,13
+Canine,Aerococcus sp.,12
+Canine,Aerococcus viridans,1
+Canine,Aeromonas caviae,3
+Canine,Aeromonas hydrophila,2
+Canine,Aeromonas hydrophila ss hydrophila,3
+Canine,Aeromonas hydrophilia,3
+Canine,Aeromonas media,1
+Canine,Aeromonas sp.,3
+Canine,Alcaligenes faecalis ss faecalis,1
+Canine,Arcanobacterium canis,4
+Canine,Arcanobacterium sp.,9
+Canine,Bacillus cereus,11
+Canine,Bacillus lentus,1
+Canine,Bacillus licheniformis,5
+Canine,Bacillus megaterium,8
+Canine,Bacillus mycoides,1
+Canine,Bacillus pumilus,3
+Canine,Bacillus sp.,85
+Canine,Bacillus subtilis,1
+Canine,Bacillus thuringiensis,2
+Canine,Bergeyella zoohelcum,2
+Canine,Bordetella bronchiseptica,29
+Canine,Buchananella hordeovulneris,2
+Canine,Burkholderia cepacia,1
+Canine,Burkholderia cepacia group,1
+Canine,Canibacter oris,2
+Canine,Capnocytophaga cynodegmi,2
+Canine,Chronobacter sakazakii Group,1
+Canine,Citrobacter amalonaticus,1
+Canine,Citrobacter braakii,5
+Canine,Citrobacter farmeri,2
+Canine,Citrobacter freundii,8
+Canine,Citrobacter koseri,13
+Canine,Citrobacter sp.,1
+Canine,Coagulase Neative Staphylococcus,1
+Canine,Corynebacterium amycolatum,15
+Canine,Corynebacterium auricanis,2
+Canine,Corynebacterium auriscanis,68
+Canine,Corynebacterium bovis,1
+Canine,Corynebacterium diptheriae,1
+Canine,Corynebacterium propinquum,1
+Canine,Corynebacterium resistens,1
+Canine,Corynebacterium sp.,233
+Canine,Corynebacterium ulcerans,7
+Canine,Corynebacterium urealyticum,10
+Canine,Culture Negative,21668
+Canine,Eikenella corrodens,3
+Canine,Enterobacter aerogenes,29
+Canine,Enterobacter amnigenus,2
+Canine,Enterobacter asburiae,19
+Canine,Enterobacter bugandensis,5
+Canine,Enterobacter cloacae,87
+Canine,Enterobacter cloacae complex,13
+Canine,Enterobacter hormaechei,22
+Canine,Enterobacter kobei,1
+Canine,Enterobacter ludwigii,10
+Canine,Enterobacter sp.,19
+Canine,Enterococcus avium,14
+Canine,Enterococcus caninestini,1
+Canine,Enterococcus canintestini,15
+Canine,Enterococcus canis,4
+Canine,Enterococcus casseliflavus,3
+Canine,Enterococcus faecalis,498
+Canine,Enterococcus faecium,240
+Canine,Enterococcus gallinarum,2
+Canine,Enterococcus hirae,8
+Canine,Enterococcus mundtii,2
+Canine,Enterococcus sp.,199
+Canine,Escherichia coli,2263
+Canine,Escherichia coli - lactose Culture Negative,1
+Canine,Escherichia coli haemolytic,24
+Canine,Escherichia fergusonii,1
+Canine,Escherichia hermannii,1
+Canine,Escherichia sp.,1
+Canine,Escherichia vulneris,2
+Canine,Gramnegative organism,7
+Canine,Gramnegative rod,36
+Canine,Grampositive branching rod,1
+Canine,Grampositive coccus,5
+Canine,Grampositive organism,1
+Canine,Grampositive rod,2
+Canine,Haemophilus haemoglobinophilis,1
+Canine,Haemophilus haemoglobinophilus,20
+Canine,Haemophilus sp.,5
+Canine,Hafnia alvei,2
+Canine,Klebsiella (Enterobacter) aerogenes,1
+Canine,Klebsiella aerogenes,2
+Canine,Klebsiella aerogenes (Enterobacter),18
+Canine,Klebsiella oxytoca,44
+Canine,Klebsiella pneumoniae,119
+Canine,Klebsiella sp.,6
+Canine,Klebsiella variicola,15
+Canine,Kluyvera ascorbata,1
+Canine,Kocuria kristinae,1
+Canine,Kocuria sp.,1
+Canine,Kosakonia cowanii,1
+Canine,Lactobacillus acidophilus,1
+Canine,Lactobacillus johnsonii,1
+Canine,Lactobacillus murinus,1
+Canine,Lactobacillus reuteri,2
+Canine,Lactobacillus sp.,2
+Canine,Leclercia adecarboxylata,3
+Canine,Lelliottia amnigena,1
+Canine,Leuconostoc sp.,1
+Canine,Lysinibacillus fusiformis,1
+Canine,Macrococcus caseolyticus,1
+Canine,Micrococcus luteus,10
+Canine,Micrococcus sp.,6
+Canine,Moraxella canis,7
+Canine,Moraxella osloensis,1
+Canine,Moraxella sp.,8
+Canine,Moraxella spp,1
+Canine,Morganella morgani ss morganii,15
+Canine,Morganella morgani ssp sibonii,1
+Canine,Morganella morganii,1
+Canine,Morganella morganii (Proteus),2
+Canine,Myroides sp.,1
+Canine,Neisseria animaloris,9
+Canine,Neisseria flavescens,2
+Canine,Neisseria sp.,20
+Canine,Neisseria weaveri,8
+Canine,Neisseria zoodegmatis,7
+Canine,Nocardia sp,1
+Canine,Paenibacillus humicus,1
+Canine,Paenibacillus sp.,4
+Canine,Pantoea agglomerans,12
+Canine,Pantoea agglomerans (Enterobacter),1
+Canine,Pantoea eucrina,1
+Canine,Pantoea sp.,15
+Canine,Pasteurella canis,112
+Canine,Pasteurella dagmatis,12
+Canine,Pasteurella multocida,26
+Canine,Pasteurella pneumotropica,5
+Canine,Pasteurella sp.,8
+Canine,Pasteurella stomatis,4
+Canine,Pediococcus acidilactici,1
+Canine,Pluralibacter gergoviae,2
+Canine,Proteus hauseri,11
+Canine,Proteus mirabilis,613
+Canine,Proteus sp.,3
+Canine,Proteus vulgaris,15
+Canine,Providencia alcalifaciens,1
+Canine,Providencia rettgeri,8
+Canine,Providencia stuartii,2
+Canine,Pseudomonas aeruginosa,392
+Canine,Pseudomonas alcaligenes,3
+Canine,Pseudomonas fluorescens,2
+Canine,Pseudomonas fulva,3
+Canine,Pseudomonas koreensis,1
+Canine,Pseudomonas luteola,1
+Canine,Pseudomonas oryzihabitans,2
+Canine,Pseudomonas putida,4
+Canine,Pseudomonas sp.,8
+Canine,Pseudomonas stutzeri,2
+Canine,Raoultella ornithinolytica,2
+Canine,Raoultella planticola,1
+Canine,Rothia mucilaginosa,1
+Canine,Rothia nasimurium,6
+Canine,Rothia sp.,1
+Canine,Salmonella sp.,2
+Canine,Salmonella sp. Group B,1
+Canine,Schaalia (Actinomyces) canis,1
+Canine,Schaalia canis,4
+Canine,Serratia fonticola,2
+Canine,Serratia liquefaciens,2
+Canine,Serratia marcescens,48
+Canine,Serratia sp.,1
+Canine,Sphingobacterium spiritivorum,1
+Canine,Sphingomonas parapaucimobilis,1
+Canine,Sphingomonas paucimobilis,6
+Canine,Staphylococcus aur. ss aureus,74
+Canine,Staphylococcus aureus,54
+Canine,Staphylococcus coag Culture Negative,1
+Canine,Staphylococcus coagulase Culture Negative Group,225
+Canine,Staphylococcus coagulase Positive Group,7
+Canine,Staphylococcus coagulase-Culture Negative,10
+Canine,Staphylococcus delphini,2
+Canine,Staphylococcus epidermidis,13
+Canine,Staphylococcus hominis ss hominis,1
+Canine,Staphylococcus pseudintermedius,2117
+Canine,Staphylococcus saccharolyticus,1
+Canine,Staphylococcus schleiferi,111
+Canine,Staphylococcus schleiferi - coag neg,55
+Canine,Staphylococcus schleiferi - coag pos,35
+Canine,Staphylococcus schleiferi coag neg,1
+Canine,Staphylococcus schleiferi coag positive,1
+Canine,Staphylococcus schleiferi coagulase Culture Negative,1
+Canine,Staphylococcus schleiferi ss coagulans,9
+Canine,"Staphylococcus schleiferi, coagulase positive",2
+Canine,Staphylococcus schleiferi-coag Culture Negative,1
+Canine,Staphylococcus schleiferi-coag positive,1
+Canine,Staphylococcus sp.,12
+Canine,Staphylococcus sp. coag Culture Negative,1
+Canine,Staphylococcus sp. coagulase-Culture Negative,1
+Canine,Staphylococcus warneri,1
+Canine,Stenotrophomonas maltophilia,10
+Canine,Stenotrophomonas maltophilia (Xanthomonas),2
+Canine,Streptococcus agalactiae,9
+Canine,Streptococcus alpha hemolytic,190
+Canine,Streptococcus anginosus,1
+Canine,Streptococcus beta group - B,15
+Canine,Streptococcus beta group - C,10
+Canine,Streptococcus beta group - G,3
+Canine,Streptococcus beta haemolytic,4
+Canine,Streptococcus canis,730
+Canine,Streptococcus dys ss dysgalactiae,7
+Canine,Streptococcus dys. ss dysgalactiae,2
+Canine,Streptococcus dys. ss equisimilis,4
+Canine,Streptococcus dysgalactiae,13
+Canine,Streptococcus equi spp zooepidemicus,2
+Canine,Streptococcus equi ss zooepidemicus,2
+Canine,Streptococcus gallolyticus,7
+Canine,Streptococcus gp. B,1
+Canine,Streptococcus group C,1
+Canine,Streptococcus halichoeri,10
+Canine,Streptococcus lutetiensis,2
+Canine,Streptococcus minor,3
+Canine,Streptococcus mitis,1
+Canine,Streptococcus non-hemolytic,36
+Canine,Streptococcus pneumoniae,2
+Canine,Streptococcus sp.,12
+Canine,Streptococcus sp. - non hemolytic,1
+Canine,Streptococcus sp. alpha hemolytic,12
+Canine,Trueperella bernardiae,3
+Canine,Trueperella pyogenes,3
+Canine,Weisella sp.,2
+Canine,Yokenella regensburgei,1
+Caprine,Actinomyces hyovaginalis,2
+Caprine,Bacillus cereus,1
+Caprine,Bacillus megaterium,1
+Caprine,Bibersteinia trehalosi,5
+Caprine,Corynebacterium pseudotuberculosis,5
+Caprine,Corynebacterium sp.,5
+Caprine,Corynebacterium ulcerans,1
+Caprine,Culture Negative,414
+Caprine,Enterobacter cloacae,3
+Caprine,Enterococcus faecalis,3
+Caprine,Enterococcus faecium,1
+Caprine,Enterococcus sp.,1
+Caprine,Escherichia coli,8
+Caprine,Klebsiella oxytoca,1
+Caprine,Mannheimia haemolytica,2
+Caprine,Moraxella ovis,2
+Caprine,Pasteurella multocida,2
+Caprine,Proteus mirabilis,1
+Caprine,Pseudomonas aeruginosa,12
+Caprine,Pseudomonas sp.,1
+Caprine,Staphylococcus aur. ss aureus,5
+Caprine,Staphylococcus aureus,6
+Caprine,Staphylococcus coagulase Culture Negative Group,3
+Caprine,Staphylococcus coagulase-Culture Negative,1
+Caprine,Staphylococcus pseudintermedius,1
+Caprine,Streptococcus alpha hemolytic,2
+Caprine,Streptococcus dysgalactiae,1
+Caprine,Streptococcus equi spp zooepidemicus,2
+Caprine,Trueperella pyogenes,11
+Caprine,Trueperella pyogenes (Actinomyces/Corynebacterium),5
+Equine,Achromobacter sp.,2
+Equine,Achromobacter xylo ss denitrificans,1
+Equine,Acinetobacter baumannii complex,4
+Equine,Acinetobacterer baumannii,4
+Equine,Acinetobacterer junii,1
+Equine,Acinetobacterer sp.,17
+Equine,Actinobacillus equuli,9
+Equine,Actinobacillus equuli spp equuli,2
+Equine,Actinobacillus equuli ss equuli,21
+Equine,Actinobacillus equuli ss haemolyticus,1
+Equine,Actinobacillus pleuropneumoniae,3
+Equine,Actinobacillus rossii,7
+Equine,Actinobacillus sp.,13
+Equine,Actinobacillus suis,21
+Equine,Actinobacillus ureae,6
+Equine,Actinomyces sp.,4
+Equine,Aerococcus sp.,1
+Equine,Aerococcus viridans,1
+Equine,Aeromonas caviae,3
+Equine,Aeromonas sp.,2
+Equine,Aeromonas veronii,2
+Equine,Alcaligenes faecalis ss faecalis,3
+Equine,Alcaligenes sp.,1
+Equine,Alpha strep not suis,1
+Equine,Arcanobacterium haemolyticum,1
+Equine,Bacillus cereus,2
+Equine,Bacillus pumilus,1
+Equine,Bacillus sp.,16
+Equine,Bacillus thuringiensis,1
+Equine,Bordetella bronchiseptica,4
+Equine,Bordetella trematum,1
+Equine,Brevundimonas vesicularis,1
+Equine,Burkholderia multivorans,1
+Equine,Chryseobacterium gleum,1
+Equine,Chryseobacterium sp.,1
+Equine,Citrobacter amalonaticus,2
+Equine,Citrobacter freundii,1
+Equine,Citrobacter koseri,2
+Equine,Citrobacter sedlakii,5
+Equine,Comamonas testosteroni,1
+Equine,Corynebacterium diphtheriae,1
+Equine,Corynebacterium pseudotuberculosis,2
+Equine,Corynebacterium sp.,39
+Equine,Corynebacterium xerosis,1
+Equine,Culture Negative,3895
+Equine,Enterobacter aerogenes,3
+Equine,Enterobacter asburiae,3
+Equine,Enterobacter bugandensis,2
+Equine,Enterobacter cancerogenus,1
+Equine,Enterobacter cloacae,32
+Equine,Enterobacter cloacae complex,3
+Equine,Enterobacter hormaechei,7
+Equine,Enterobacter sp.,1
+Equine,Enterococcus avium,1
+Equine,Enterococcus faecalis,15
+Equine,Enterococcus faecium,4
+Equine,Enterococcus gallinarum,2
+Equine,Enterococcus sp.,34
+Equine,Escherichia coli,124
+Equine,Escherichia hermannii,1
+Equine,Gramnegative Rod,1
+Equine,Gramnegative organism,3
+Equine,Gramnegative rod,21
+Equine,Grampositive organism,1
+Equine,Granulicatella adiacens,1
+Equine,Haemophilus haemolyticus,1
+Equine,Haemophilus sp.,1
+Equine,Klebsiella aerogenes (Enterobacter),4
+Equine,Klebsiella oxytoca,8
+Equine,Klebsiella pneumoniae,34
+Equine,Klebsiella pneumoniae ss pneumoniae,1
+Equine,Kocuria rosea,1
+Equine,Kocuria varians,1
+Equine,Leclercia adecarboxylata,2
+Equine,Methylobacterium sp.,1
+Equine,Micrococcus luteus,1
+Equine,Micrococcus sp.,3
+Equine,Moraxella sp.,5
+Equine,Morganella morgani,1
+Equine,Morganella morgani ss morganii,4
+Equine,Myroides sp.,1
+Equine,Neisseria sp.,1
+Equine,Oligella urethralis,1
+Equine,Paenibacillus sp.,2
+Equine,Pantoea agglomerans,5
+Equine,Pantoea sp.,3
+Equine,Pasteurella multocida,1
+Equine,Pasteurella pneumotropica,2
+Equine,Pasteurella sp.,2
+Equine,Proteus mirabilis,7
+Equine,Proteus sp.,1
+Equine,Proteus vulgaris,8
+Equine,Providencia rettgeri,1
+Equine,Providencia stuartii,1
+Equine,Pseudomonas aeruginosa,44
+Equine,Pseudomonas fulva,1
+Equine,Pseudomonas mendocina,1
+Equine,Pseudomonas sp.,4
+Equine,Raoultella ornithinolytica,3
+Equine,Raoultella terrigena,1
+Equine,Rhizobium radiobacter,1
+Equine,Rhodococcus equi,16
+Equine,Rhodococcus hoagii (Rhodococcus equi),2
+Equine,Rhodococcus sp.,1
+Equine,Rothia nasimurium,1
+Equine,Rothia sp.,1
+Equine,Salmonella group - C2,1
+Equine,Salmonella sp.,25
+Equine,Salmonella sp. Group B,4
+Equine,Salmonella sp. Group C1,7
+Equine,Salmonella sp. Group C2,4
+Equine,Salmonella sp. Group D,6
+Equine,Salmonella sp. Group E1,7
+Equine,Salmonella sp.(Poly A),4
+Equine,Serratia marcescens,3
+Equine,Serratia rubidaea,1
+Equine,Staphylococcus aur. ss aureus,25
+Equine,Staphylococcus aureus,50
+Equine,Staphylococcus chromogenes,1
+Equine,Staphylococcus coagulase Culture Negative Group,50
+Equine,Staphylococcus coagulase Positive Group,1
+Equine,Staphylococcus delphini,6
+Equine,Staphylococcus epidermidis,1
+Equine,Staphylococcus intermedius,3
+Equine,Staphylococcus pseudintermedius,4
+Equine,Staphylococcus schleiferi,1
+Equine,Staphylococcus schleiferi - coag pos,1
+Equine,Staphylococcus schleiferi ss schleiferi,1
+Equine,Stenotrophomonas maltophilia,5
+Equine,Streptococcus agalactiae,1
+Equine,Streptococcus alpha hemolytic,78
+Equine,Streptococcus beta group - C,1
+Equine,Streptococcus beta haemolytic,1
+Equine,Streptococcus dys ss dysgalactiae,2
+Equine,Streptococcus dys. ss dysgalactiae,7
+Equine,Streptococcus dys. ss equisimilis,10
+Equine,Streptococcus dysgalact. ss equisimilis,1
+Equine,Streptococcus dysgalactiae,10
+Equine,Streptococcus equi,5
+Equine,Streptococcus equi spp zooepidemicus,88
+Equine,Streptococcus equi ss zooepidemicus,155
+Equine,Streptococcus equi ssp equi,43
+Equine,Streptococcus mitis,1
+Equine,Streptococcus non-hemolytic,3
+Equine,Streptococcus pneumoniae,7
+Equine,Streptococcus sp. alpha hemolytic,1
+Equine,Streptococcus uberis,1
+Equine,Trueperella pyogenes (Actinomyces/Corynebacterium),4
+Equine,Unidentified,1
+Feline,Achromobacter xylo ss denitrificans,1
+Feline,Acinetobacterer baumannii,2
+Feline,Acinetobacterer lwoffi,1
+Feline,Actinomyces canis,2
+Feline,Actinomyces sp.,5
+Feline,Arcanobacterium sp.,2
+Feline,Bacillus cereus,2
+Feline,Bacillus licheniformis,1
+Feline,Bacillus simplex,1
+Feline,Bacillus sp.,13
+Feline,Bordetella bronchiseptica,10
+Feline,Brevibacterium sp.,1
+Feline,Burkholderia cepacia group,1
+Feline,Capnocytophaga sp.,2
+Feline,Citrobacter freundii,6
+Feline,Citrobacter sp.,1
+Feline,Corynebacterium amycolatum,14
+Feline,Corynebacterium auriscanis,4
+Feline,Corynebacterium bovis,2
+Feline,Corynebacterium mastitidis,1
+Feline,Corynebacterium resistens,1
+Feline,Corynebacterium sp.,32
+Feline,Corynebacterium ulcerans,1
+Feline,Cronobacter sakazakii Group,1
+Feline,Culture Negative,5924
+Feline,Enterobacter asburiae,1
+Feline,Enterobacter cloacae,2
+Feline,Enterobacter cloacae complex,4
+Feline,Enterobacter hormaechei,2
+Feline,Enterobacter sp.,1
+Feline,Enterococcus casseliflavus,1
+Feline,Enterococcus durans,3
+Feline,Enterococcus faecalis,79
+Feline,Enterococcus faecium,43
+Feline,Enterococcus gallinarum,1
+Feline,Enterococcus sp.,22
+Feline,Enterococus faecalis,1
+Feline,Escherichia coli,297
+Feline,Escherichia fergusonii,1
+Feline,Escherichia hermannii,1
+Feline,Gramnegative rod,4
+Feline,Grampositive branching rod,1
+Feline,Grampositive coccus,1
+Feline,Grampositive rod,1
+Feline,Haemophilus haemoglobinophilus,2
+Feline,Klebsiella aerogenes (Enterobacter),1
+Feline,Klebsiella oxytoca,3
+Feline,Klebsiella pneumoniae,7
+Feline,Klebsiella sp.,1
+Feline,Leuconostoc lactis,1
+Feline,Micrococcus luteus,3
+Feline,Micrococcus sp.,6
+Feline,Moraxella sp.,3
+Feline,Neisseria mucosa,1
+Feline,Neisseria sp.,3
+Feline,Neisseria zoodegmatis,2
+Feline,Ochrobactrum intermedium,1
+Feline,Paenibacillus sp.,1
+Feline,Pasteurella canis,5
+Feline,Pasteurella dagmatis,10
+Feline,Pasteurella multocida,95
+Feline,Pasteurella sp.,6
+Feline,Pediococcus sp.,1
+Feline,Pluralibacter gergoviae,1
+Feline,Proteus mirabilis,17
+Feline,Proteus vulgaris,1
+Feline,Providencia rettgeri,1
+Feline,Providencia rettgeri (Proteus),1
+Feline,Providencia stuartii,1
+Feline,Pseudomonas aeruginosa,67
+Feline,Pseudomonas alcaligenes,1
+Feline,Pseudomonas alcaliphila,1
+Feline,Pseudomonas oleovorans,1
+Feline,Pseudomonas sp.,1
+Feline,Rhizobium radiobacter,1
+Feline,Rothia mucilaginosa,1
+Feline,Rothia nasimurium,2
+Feline,Rothia sp.,2
+Feline,Schaalia canis,1
+Feline,Serratia marcescens,3
+Feline,Staphylococcus aur. ss aureus,21
+Feline,Staphylococcus aureus,24
+Feline,Staphylococcus coagulase Culture Negative Group,91
+Feline,Staphylococcus coagulase Culture Negative sp.,1
+Feline,Staphylococcus coagulase-Culture Negative,19
+Feline,Staphylococcus delphini,2
+Feline,Staphylococcus epidermidis,5
+Feline,Staphylococcus felis,32
+Feline,Staphylococcus intermedius,2
+Feline,Staphylococcus pseudintermedius,34
+Feline,Staphylococcus schleiferi,4
+Feline,Staphylococcus schleiferi - coag neg,3
+Feline,Staphylococcus schleiferi - coag pos,1
+Feline,Staphylococcus simulans,1
+Feline,Staphylococcus sp.,1
+Feline,Stenotrophomonas maltophilia,1
+Feline,Stenotrophomonas sp.,1
+Feline,Streptococcus alpha hemolytic,21
+Feline,Streptococcus beta group - B,1
+Feline,Streptococcus beta group - C,10
+Feline,Streptococcus beta group - G,2
+Feline,Streptococcus canis,45
+Feline,Streptococcus didelphis,1
+Feline,Streptococcus dys. ss dysgalactiae,1
+Feline,Streptococcus equi spp zooepidemicus,2
+Feline,Streptococcus equi ss zooepidemicus,5
+Feline,Streptococcus gallolyticus,1
+Feline,Streptococcus minor,2
+Feline,Streptococcus non-hemolytic,1
+Feline,Streptococcus pneumoniae,1
+Feline,Streptococcus sp.,4
+Feline,Streptococcus sp. Gp. C,1
+Feline,Streptococcus sp. alpha hemolytic,1
+Feline,Trueperella abortisuis,3
+Other Large,Aeromonas sobria,1
+Other Large,Bacillus sp.,2
+Other Large,Corynebacterium sp.,4
+Other Large,Culture Negative,6042
+Other Large,Escherichia coli,6
+Other Large,Gramnegative cocci,1
+Other Large,Gramnegative organism,1
+Other Large,Gramnegative rod,2
+Other Large,Grampositive rod,1
+Other Large,Klebsiella oxytoca,1
+Other Large,Mannheimia haemolytica,1
+Other Large,Micrococcus sp.,1
+Other Large,Ochrobactrum intermedium,1
+Other Large,Pasteurella multocida,1
+Other Large,Pseudomonas aeruginosa,5
+Other Large,Rothia mucilaginosa,1
+Other Large,Rothia nasimurium,1
+Other Large,Rothia sp.,1
+Other Large,Salmonella 18,1
+Other Large,Salmonella C1,1
+Other Large,Salmonella Group C1,1
+Other Large,Salmonella sp.,44
+Other Large,Salmonella sp. E1,1
+Other Large,Salmonella sp. Group 18,1
+Other Large,Salmonella sp. Group B,10
+Other Large,Salmonella sp. Group C1,6
+Other Large,Salmonella sp. Group C2,5
+Other Large,Salmonella sp. Group D,2
+Other Large,Salmonella sp. Group E1,22
+Other Large,Salmonella sp. Group E4,2
+Other Large,Salmonella sp. group C1/C2,1
+Other Large,Salmonella sp. group E1,1
+Other Large,Salmonella sp. group E1/E4,1
+Other Large,Salmonella sp.Group C,1
+Other Large,Staphylococcus aur. ss aureus,1
+Other Large,Staphylococcus aureus,1
+Other Large,Staphylococcus coagulase Culture Negative Group,4
+Other Large,Staphylococcus simulans,1
+Other Large,Streptococcus alpha hemolytic,10
+Other Large,Streptococcus dysgalactiae,1
+Other Large,Streptococcus lutiensis,1
+Other Large,Trueperella pyogenes,2
+Other Small,Acinetobacterer junii,1
+Other Small,Acinetobacterer lwoffi,1
+Other Small,Acinetobacterer sp.,2
+Other Small,Aerococcus viridans,2
+Other Small,Aeromonas hydrophila /caviae,1
+Other Small,Aeromonas hydrophila complex,2
+Other Small,Aeromonas hydrophila/caviae,2
+Other Small,Aeromonas hydrophilia,1
+Other Small,Aeromonas salmonicida,2
+Other Small,Aeromonas sobria,2
+Other Small,Aeromonas sp.,1
+Other Small,Aeromonas veronii,3
+Other Small,Bacillus cereus,3
+Other Small,Bacillus licheniformis,1
+Other Small,Bacillus megaterium,1
+Other Small,Bacillus sp.,4
+Other Small,Bacillus thuringiensis,1
+Other Small,Bordetella bronchiseptica,3
+Other Small,Bordetella hinzii,1
+Other Small,Burkholderia cepacia,1
+Other Small,Capnocytophaga ochracea,1
+Other Small,Chryseobacterium gleum,1
+Other Small,Chryseobacterium sp.,1
+Other Small,Citrobacter amalonaticus,1
+Other Small,Citrobacter freundii,2
+Other Small,Citrobacter koseri,1
+Other Small,Corynebacterium kutscheri,2
+Other Small,Corynebacterium sp.,7
+Other Small,Culture Negative,299
+Other Small,Delftia acidovorans,2
+Other Small,Dermacoccus sp.,1
+Other Small,Enterobacter cloacae,4
+Other Small,Enterobacter sp.,1
+Other Small,Enterococcus faecalis,7
+Other Small,Enterococcus faecium,2
+Other Small,Enterococcus sp.,2
+Other Small,Escherichia coli,6
+Other Small,Flavobacterium sp.,1
+Other Small,Gemella cuniculis,1
+Other Small,Grampositive organism,1
+Other Small,Klebsiella oxytoca,7
+Other Small,Klebsiella pneumoniae,2
+Other Small,Klebsiella variicola,1
+Other Small,Lactococcus lactis,1
+Other Small,Leclercia adecarboxylata,2
+Other Small,Lysinibacillus sp.,1
+Other Small,Microbacterium paraoxydans,2
+Other Small,Microbacterium paraoxydas,1
+Other Small,Moraxella sp.,4
+Other Small,Moraxella spp,1
+Other Small,Morganella morgani,1
+Other Small,Morganella morgani ss morganii,2
+Other Small,Ochrobactrum anthropi,1
+Other Small,Pasteurella canis,3
+Other Small,Pasteurella multocida,11
+Other Small,Pasteurella pneumotropica,2
+Other Small,Proteus hauseri,5
+Other Small,Proteus mirabilis,2
+Other Small,Proteus vulgaris,1
+Other Small,Providencia rettgeri,2
+Other Small,Providencia rettgeri (Proteus),1
+Other Small,Pseudomonas aeruginosa,21
+Other Small,Pseudomonas fulva,1
+Other Small,Pseudomonas mendocina,3
+Other Small,Pseudomonas putida,1
+Other Small,Pseudomonas sp.,1
+Other Small,Pseudomonas stutzeri,1
+Other Small,Rothia nasimurium,1
+Other Small,Rothia sp.,1
+Other Small,Salmonella sp.,3
+Other Small,Salmonella sp. Group D,1
+Other Small,Serratia marcescens,3
+Other Small,Shewanella putrefaciens,3
+Other Small,Sphingomonas paucimobilis,1
+Other Small,Staphylococcus aur. ss aureus,1
+Other Small,Staphylococcus aureus,3
+Other Small,Staphylococcus coagulase Culture Negative Group,13
+Other Small,Staphylococcus coagulase-Culture Negative,1
+Other Small,Staphylococcus delphini,1
+Other Small,Staphylococcus epidermidis,2
+Other Small,Staphylococcus intermedius,2
+Other Small,Stenotrophomonas maltophilia,3
+Other Small,Stenotrophomonas maltophilia (Xanthomonas),1
+Other Small,Streptococcus alpha hemolytic,5
+Other Small,Streptococcus beta group - C,1
+Other Small,Streptococcus canis,1
+Other Small,Streptococcus non-hemolytic,1
+Other Small,Vibrio cholerae,1
+Ovine,Acinetobacterer sp.,1
+Ovine,Bacillus sp.,2
+Ovine,Corynebacterium pseudotuberculosis,3
+Ovine,Corynebacterium sp.,2
+Ovine,Culture Negative,109
+Ovine,Enterococcus sp.,1
+Ovine,Escherichia coli,4
+Ovine,Listeria monocytogenes,1
+Ovine,Morganella morgani ss morganii,1
+Ovine,Pasteurella multocida,2
+Ovine,Proteus mirabilis,2
+Ovine,Pseudomonas aeruginosa,2
+Ovine,Staphylococcus aur. ss aureus,2
+Ovine,Staphylococcus aureus,1
+Ovine,Staphylococcus coagulase Culture Negative Group,3
+Ovine,Staphylococcus epidermidis,1
+Ovine,Streptococcus alpha hemolytic,2
+Ovine,Streptococcus dys ss dysgalactiae,2
+Ovine,Trueperella pyogenes,4
+Ovine,Trueperella pyogenes (Actinomyces/Corynebacterium),3
+Porcine,Acinetobacterer baumannii,2
+Porcine,Actinobacillus suis,1
+Porcine,Actinomyces hyovaginalis,3
+Porcine,Alpha strep not suis,1
+Porcine,Bacillus sp.,1
+Porcine,Citrobacter freundii,1
+Porcine,Corynebacterium sp.,4
+Porcine,Culture Negative,256
+Porcine,Enterobacter aerogenes,1
+Porcine,Enterobacter cloacae,3
+Porcine,Enterobacter hormaechei,1
+Porcine,Enterococcus avium,1
+Porcine,Enterococcus faecalis,1
+Porcine,Enterococcus faecium,3
+Porcine,Enterococcus sp.,1
+Porcine,Erysipelothrix rhusiopathiae,1
+Porcine,Escherichia coli,18
+Porcine,Escherichia coli - haemolytic,1
+Porcine,Klebsiella pneumoniae,4
+Porcine,Moraxellapluranima,2
+Porcine,Pasteurella mairii,1
+Porcine,Pasteurella multocida,6
+Porcine,Proteus mirabilis,5
+Porcine,Proteus vulgaris,1
+Porcine,Pseudomonas aeruginosa,11
+Porcine,Salmonella sp. Group E1,1
+Porcine,Salmonella sp.(Poly A),1
+Porcine,Schaalia (Actinomyces) hyovaginalis,1
+Porcine,Schaalia hyovaginalis,6
+Porcine,Staphylococcus aureus,2
+Porcine,Staphylococcus chromogenes,2
+Porcine,Staphylococcus coagulase Culture Negative Group,2
+Porcine,Staphylococcus hyicus,4
+Porcine,Staphylococcus intermedius,1
+Porcine,Streptococcus alpha hemolytic,1
+Porcine,Streptococcus canis,1
+Porcine,Streptococcus dysgalactiae,1
+Porcine,Streptococcus equi spp zooepidemicus,1
+Porcine,Streptococcus porcinus,4
+Porcine,Streptococcus sp.,1
+Porcine,Streptococcus suis,1
+Porcine,Streptococcus suis 16,1
+Porcine,Streptococcus suis 2/4/33/34,1
+Porcine,Streptococcus suis V,1
+Porcine,Streptococcus suis XIII,1
+Porcine,Streptococcus suis XXXIV,2
+Porcine,Trueperella abortisuis,1
+Porcine,Trueperella pyogenes,4
+Porcine,Trueperella pyogenes (Actinomyces/Corynebacterium),6
+NA,Culture Negative,42
+NA,Escherichia coli,1

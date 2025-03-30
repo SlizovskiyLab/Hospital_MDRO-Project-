@@ -1,0 +1,76 @@
+"MDRO","HIS.Species","Service","Median.Time.Until.Rehospitalization"
+"FALSE","Avian","Hospital Visit",3791.35
+"FALSE","Bovine","Hospital Visit",2579.725
+"FALSE","Canine","Emergency Critical Care",783.841666666667
+"FALSE","Canine","Emergency Critical Care - Weekdays",600.616666666667
+"FALSE","Canine","Held Open",666.008333333333
+"FALSE","Canine","Hospital Visit",955.45
+"FALSE","Canine","Offsite Visit",666.483333333333
+"FALSE","Canine","Patient Service",911.45
+"FALSE","Canine","Physical Rehabilitation",181.225
+"FALSE","Caprine","Hospital Visit",920.9
+"FALSE","Equine","Field Visit",567.966666666667
+"FALSE","Equine","Hospital Visit",983
+"FALSE","Equine","Patient Service",469.933333333333
+"FALSE","Feline","Emergency Critical Care",449.75
+"FALSE","Feline","Emergency Critical Care - Weekdays",313.666666666667
+"FALSE","Feline","Hospital Visit",503.1
+"FALSE","Feline","Patient Service",17639.25
+"FALSE","Other Large","Patient Service",59.5416666666667
+"FALSE","Other Small","Hospital Visit",4779.6
+"FALSE","Other Small","Patient Service",10218.7166666667
+"FALSE","Ovine","Held Open",903.55
+"FALSE","Ovine","Hospital Visit",9914.13333333333
+"FALSE","Porcine","Hospital Visit",3362.925
+"N/A","Avian","Emergency Critical Care - Weekdays",2421.51666666667
+"N/A","Avian","Hospital Visit",4541.26666666667
+"N/A","Avian","Patient Service",2022.16666666667
+"N/A","Bovine","Field Visit",27096.7416666667
+"N/A","Bovine","Hospital Visit",642.916666666667
+"N/A","Bovine","Patient Service",343.816666666667
+"N/A","Canine","Emergency Critical Care",893.9
+"N/A","Canine","Emergency Critical Care - Weekdays",663.866666666667
+"N/A","Canine","Held Open",1480.61666666667
+"N/A","Canine","Hospital Visit",1201.48333333333
+"N/A","Canine","Patient Service",1321
+"N/A","Caprine","Hospital Visit",2554.59166666667
+"N/A","Equine","Field Visit",336.533333333333
+"N/A","Equine","Hospital Visit",1517.26666666667
+"N/A","Equine","Patient Service",3001.73333333333
+"N/A","Feline","Emergency Critical Care",704.05
+"N/A","Feline","Emergency Critical Care - Weekdays",1144.06666666667
+"N/A","Feline","Held Open",2035.81666666667
+"N/A","Feline","Hospital Visit",1696.54166666667
+"N/A","Feline","Offsite Visit",7307.475
+"N/A","Feline","Patient Service",1175.08333333333
+"N/A","Feline","Priority for Paws",868.883333333333
+"N/A","Other Large","Field Visit",345.833333333333
+"N/A","Other Large","Hospital Visit",7678.94166666667
+"N/A","Other Large","Patient Service",94.2666666666667
+"N/A","Other Small","Hospital Visit",6318.875
+"N/A","Other Small","Patient Service",2401.13333333333
+"N/A","Ovine","Field Visit",555.083333333333
+"N/A","Porcine","Hospital Visit",3548.10833333333
+"TRUE","Avian","Hospital Visit",2350.49166666667
+"TRUE","Bovine","Field Visit",8062.53333333333
+"TRUE","Bovine","Patient Service",6294.34166666667
+"TRUE","Canine","Emergency Critical Care",978.416666666667
+"TRUE","Canine","Emergency Critical Care - Weekdays",571.9
+"TRUE","Canine","Held Open",608.6
+"TRUE","Canine","Hospital Visit",831.033333333333
+"TRUE","Canine","Patient Service",864.95
+"TRUE","Canine","Priority for Paws",2652.61666666667
+"TRUE","Equine","Field Visit",1314.13333333333
+"TRUE","Equine","Hospital Visit",1098.85
+"TRUE","Equine","Patient Service",3612.78333333333
+"TRUE","Feline","Emergency Critical Care",609.858333333333
+"TRUE","Feline","Emergency Critical Care - Weekdays",336.791666666667
+"TRUE","Feline","Held Open",688.2
+"TRUE","Feline","Hospital Visit",704.35
+"TRUE","Feline","Offsite Visit",791.583333333333
+"TRUE","Feline","Patient Service",1005.46666666667
+"TRUE","Other Large","Patient Service",83.7833333333333
+"TRUE","Other Small","Hospital Visit",2683.86666666667
+"TRUE","Other Small","Patient Service",3359.25
+"TRUE","Ovine","Hospital Visit",1124.8
+"TRUE","Porcine","Hospital Visit",591.35

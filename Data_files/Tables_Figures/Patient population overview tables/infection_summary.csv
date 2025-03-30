@@ -1,0 +1,22 @@
+HIS.Species,infection_type,Count
+Avian,ESKAPEE Pathogen,4
+Avian,no growth,133
+Bovine,ESKAPEE Pathogen,20
+Bovine,no growth,1175
+Canine,ESKAPEE Pathogen,821
+Canine,no growth,21909
+Caprine,ESKAPEE Pathogen,19
+Caprine,no growth,418
+Equine,ESKAPEE Pathogen,141
+Equine,no growth,3945
+Feline,ESKAPEE Pathogen,144
+Feline,no growth,6035
+Other Large,ESKAPEE Pathogen,6
+Other Large,no growth,6046
+Other Small,ESKAPEE Pathogen,28
+Other Small,no growth,313
+Ovine,ESKAPEE Pathogen,3
+Ovine,no growth,112
+Porcine,ESKAPEE Pathogen,22
+Porcine,no growth,258
+NA,no growth,42
